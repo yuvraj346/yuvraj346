@@ -36,10 +36,27 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yuvraj346&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yuvraj346&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj346&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2>📊 GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yuvraj346&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=yuvraj346&theme=radical&hide_border=false" alt="Streak Stats">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj346&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvraj346&theme=radical" alt="Language Summary">
+    </td>
+  </tr>
+</table>
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvraj346&theme=tokyo-night)
 
